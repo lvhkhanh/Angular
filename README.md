@@ -6,7 +6,8 @@
 
 Visual Studio Code
 
-Auto Import
+* Auto Import
 
-vscode-icons
+* vscode-icons
 
+* [debugging-angular](https://code.visualstudio.com/docs/nodejs/angular-tutorial#_debugging-angular)
