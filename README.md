@@ -11,3 +11,7 @@ Visual Studio Code
 * vscode-icons
 
 * [debugging-angular](https://code.visualstudio.com/docs/nodejs/angular-tutorial#_debugging-angular)
+
+tsconfig.json
+
+* [debugging-angular-2-applications](https://app.pluralsight.com/guides/debugging-angular-2-applications)
