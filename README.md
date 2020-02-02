@@ -1,5 +1,9 @@
 # Angular
 
+[NGRX Store + Effects 67%](https://platform.ultimatecourses.com/courses/enrolled/227301)
+
+[NGRX Store + Effects 2/43](https://app.ultimatecourses.com/course/ngrx-store-effects)
+
 [NGRX Store + Effects(43sections)](https://app.ultimatecourses.com/course/ngrx-store-effects)_[archived(65sections)](https://platform.ultimatecourses.com/courses/enrolled/227301)
 
 [Setting Up An Angular Environment](https://thinkster.io/tutorials/setting-up-an-angular-environment)
