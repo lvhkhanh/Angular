@@ -28,3 +28,6 @@ tsconfig.json
 ## Directive
 ### *ngIf
 Elements will not attach to the DOM if false
+
+## Validation
+ValidatorFn
