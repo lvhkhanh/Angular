@@ -19,3 +19,8 @@ Visual Studio Code
 tsconfig.json
 
 * [debugging-angular-2-applications](https://app.pluralsight.com/guides/debugging-angular-2-applications)
+
+
+## Lifecycle hooks
+### constructor
+### ngAfterViewInit
