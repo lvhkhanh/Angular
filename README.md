@@ -24,3 +24,7 @@ tsconfig.json
 ## Lifecycle hooks
 ### constructor
 ### ngAfterViewInit
+
+## Directive
+### *ngIf
+Elements will not attach to the DOM if false
