@@ -1,4 +1,9 @@
 # Angular
+## Courses
+### https://codelabs.developers.google.com/codelabs/angular-codelab/index.html?index=..%2F..index
+### https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..index
+### https://codelabs.developers.google.com/codelabs/angular-slider-element/index.html?index=..%2F..index
+### https://codelabs.developers.google.com/codelabs/cloud-cardboard-viewer/index.html?index=..%2F..index
 
 [NGRX Store + Effects 2/43](https://app.ultimatecourses.com/course/ngrx-store-effects)
 
