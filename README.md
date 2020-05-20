@@ -37,3 +37,8 @@ Elements will not attach to the DOM if false
 ValidatorFn
 ## Links
 ### https://indepth.dev/container-components-with-angular/
+## Component
+### Register
+### Forgot Password
+### Login
+### Upload Files
