@@ -42,3 +42,4 @@ ValidatorFn
 ### Forgot Password
 ### Login
 ### Upload Files
+#### https://www.ninjadevcorner.com/2019/01/how-to-upload-file-with-angular-6-7-tutorial.html
