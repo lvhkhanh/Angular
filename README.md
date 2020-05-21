@@ -1,4 +1,6 @@
 # Angular
+## Official
+### https://angular.io/guide/bazel
 ## Courses
 ### https://codelabs.developers.google.com/codelabs/angular-codelab/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..index
@@ -41,6 +43,6 @@ ValidatorFn
 ### Register
 ### Forgot Password
 ### Login
-#### NgRx
+#### NgRx https://ngrx.io/guide/store
 ### Upload Files
 #### https://www.ninjadevcorner.com/2019/01/how-to-upload-file-with-angular-6-7-tutorial.html
