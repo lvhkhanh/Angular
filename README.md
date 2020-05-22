@@ -55,3 +55,42 @@ ValidatorFn
 #### NgRx https://ngrx.io/guide/store
 ### Upload Files
 #### https://www.ninjadevcorner.com/2019/01/how-to-upload-file-with-angular-6-7-tutorial.html
+
+
+
+```
+apps
+  ui
+  ui-e2e
+libs
+  domain1
+    api
+    domain
+    feature-browse-items
+      src
+        lib
+          sub1
+          sub2
+          domain1-feature1.module.ts
+        index.ts
+    feature-request-item
+    shell
+  domain2
+  shared
+
+
+tsconfig.json
+  paths
+    mapping import from @name
+
+nx.json
+tslint.json
+npm run dep-graph
+npm run affected:dep-graph --uncommitted
+cmder
+ng g lib feature-<name> --directory <domain>
+NgRx Facade
+ng add @angular-architects/ddd
+ng g @angular-architects/ddd:domain <domain>
+ng g @angular-architects/ddd:feature <name> --domain <domain> --entity <name> --app ui
+```
