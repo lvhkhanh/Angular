@@ -29,6 +29,7 @@ tsconfig.json
 ## Performance
 ### Lazy loading
 #### https://ultimatecourses.com/blog/lazy-load-angular-modules
+#### https://angular.io/guide/lazy-loading-ngmodules
 ## Lifecycle hooks
 ### constructor
 ### ngAfterViewInit
