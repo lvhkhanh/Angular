@@ -25,7 +25,8 @@ Visual Studio Code
 tsconfig.json
 
 * [debugging-angular-2-applications](https://app.pluralsight.com/guides/debugging-angular-2-applications)
-
+## Tools
+### https://nx.dev/angular/tutorial/01-create-application
 ## Performance
 ### Lazy loading
 #### https://ultimatecourses.com/blog/lazy-load-angular-modules
