@@ -26,7 +26,9 @@ tsconfig.json
 
 * [debugging-angular-2-applications](https://app.pluralsight.com/guides/debugging-angular-2-applications)
 
-
+## Performance
+### Lazy loading
+#### https://ultimatecourses.com/blog/lazy-load-angular-modules
 ## Lifecycle hooks
 ### constructor
 ### ngAfterViewInit
@@ -41,6 +43,7 @@ ValidatorFn
 ### https://indepth.dev/container-components-with-angular/
 ## Component
 ### Register
+#### ng g c path/inside/src/app/name --prefix=prefix --style=css|scss
 ### Forgot Password
 ### Login
 #### NgRx https://ngrx.io/guide/store
