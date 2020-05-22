@@ -2,6 +2,7 @@
 ## Official
 ### https://angular.io/guide/bazel
 ## Courses
+### https://app.pluralsight.com/library/courses/ng-conf-2020-session-12/recommended-courses
 ### https://codelabs.developers.google.com/codelabs/angular-codelab/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/angular-slider-element/index.html?index=..%2F..index
