@@ -25,6 +25,8 @@ Visual Studio Code
 tsconfig.json
 
 * [debugging-angular-2-applications](https://app.pluralsight.com/guides/debugging-angular-2-applications)
+## Books
+### https://www.angulararchitects.io/en/book/
 ## Tools
 ### https://nx.dev/angular/tutorial/01-create-application
 ## Performance
