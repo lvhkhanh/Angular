@@ -1,6 +1,21 @@
 # Angular
 ## Official
+### https://codelabs.developers.google.com/codelabs/cloud-cardboard-viewer/index.html?index=..%2F..index
+### https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..index
+### https://codelabs.developers.google.com/codelabs/angular-slider-element/index.html?index=..%2F..index
 ### https://angular.io/guide/bazel
+### https://angular.io/tutorial
+### https://angular.io/start
+### https://angular.io/guide/setup-local
+### https://angular.io/guide/architecture
+### https://angular.io/guide/styleguide
+### https://blog.angular.io/
+### https://angular.io/guide/universal
+### https://github.com/angular/angular
+### https://github.com/angular
+
+### [OLD]https://angularjs.org/
+
 ## Prerequisite
 ### TypeScript
 ### JavaScript
@@ -15,6 +30,7 @@
 ### https://codelabs.developers.google.com/codelabs/angular-slider-element/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/cloud-cardboard-viewer/index.html?index=..%2F..index
 ### https://app.pluralsight.com/search/?q=angular
+### [OLD] https://www.w3schools.com/angular/
 
 
 
@@ -35,6 +51,13 @@ tsconfig.json
 * [debugging-angular-2-applications](https://app.pluralsight.com/guides/debugging-angular-2-applications)
 ## Books
 ### https://www.angulararchitects.io/en/book/
+### https://www.syncfusion.com/ebooks/angular-succinctly
+### https://www.syncfusion.com/ebooks/angular2_succinctly
+### https://www.syncfusion.com/ebooks/angularjs
+## Path
+### https://app.pluralsight.com/search/?q=angular&type=path
+## Skill Assessment
+### https://app.pluralsight.com/score/skill-assessment/angular/intro?context=search
 ## Tools
 ### https://nx.dev/angular/tutorial/01-create-application
 ## Performance
@@ -59,6 +82,7 @@ ValidatorFn
 ## Links
 ### https://scotch.io/tutorials/3-ways-to-pass-async-data-to-angular-2-child-components#toc-solution-2-use-ngonchanges
 ### https://indepth.dev/container-components-with-angular/
+### https://en.wikipedia.org/wiki/Angular_(web_framework)
 ## Component
 ### Register
 #### ng g c path/inside/src/app/name --prefix=prefix --style=css|scss
