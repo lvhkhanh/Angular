@@ -7,6 +7,8 @@
 #### https://app.ultimatecourses.com/course/javascript-basics
 ## Courses
 ### https://app.ultimatecourses.com/course/ngrx-store-effects
+### https://angular-presentation.firebaseapp.com/angular
+### https://angular-presentation.firebaseapp.com/
 ### https://app.pluralsight.com/library/courses/ng-conf-2020-session-12/recommended-courses
 ### https://codelabs.developers.google.com/codelabs/angular-codelab/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..index
