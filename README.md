@@ -39,6 +39,11 @@ tsconfig.json
 ### Lazy loading
 #### https://ultimatecourses.com/blog/lazy-load-angular-modules
 #### https://angular.io/guide/lazy-loading-ngmodules
+### Functional Component
+#### https://dev.to/leolanese/functional-programming-from-the-reactjs-and-angular-point-of-view-21f
+#### https://medium.com/@jtomaszewski/how-to-write-good-composable-and-pure-components-in-angular-2-1756945c0f5b
+#### https://ultimatecourses.com/blog/stateful-stateless-components
+#### https://ultimatecourses.com/blog/stateless-angular-components
 ## Lifecycle hooks
 ### constructor
 ### ngAfterViewInit
