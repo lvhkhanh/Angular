@@ -81,6 +81,8 @@ Elements will not attach to the DOM if false
 
 ## Validation
 ValidatorFn
+## Guides
+### https://app.pluralsight.com/guides/using-formbuilder-in-angular
 ## Links
 ### https://scotch.io/tutorials/3-ways-to-pass-async-data-to-angular-2-child-components#toc-solution-2-use-ngonchanges
 ### https://indepth.dev/container-components-with-angular/
