@@ -136,3 +136,4 @@ ng g @angular-architects/ddd:feature <name> --domain <domain> --entity <name> --
 ```
 ## Links
 ### https://viblo.asia/p/su-ket-hop-giua-angular-5-ng2-smart-table-va-rails-OeVKBR3JKkW
+### https://www.js-tutorials.com/angularjs-tutorial/smart-table-server-side-pagination-angular-4-angular5/
