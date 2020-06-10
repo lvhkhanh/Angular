@@ -134,3 +134,5 @@ ng add @angular-architects/ddd
 ng g @angular-architects/ddd:domain <domain>
 ng g @angular-architects/ddd:feature <name> --domain <domain> --entity <name> --app ui
 ```
+## Links
+### https://viblo.asia/p/su-ket-hop-giua-angular-5-ng2-smart-table-va-rails-OeVKBR3JKkW
