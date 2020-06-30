@@ -17,6 +17,8 @@
 
 ### [OLD]https://angularjs.org/
 ## Tools
+### https://www.npmjs.com/package/angular-crud
+### https://storybook.js.org/docs/guides/guide-angular/
 ### https://stenciljs.com/docs/angular
 ## Prerequisite
 ### TypeScript
