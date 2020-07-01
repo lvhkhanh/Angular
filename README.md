@@ -62,6 +62,8 @@ tsconfig.json
 ### https://app.pluralsight.com/search/?q=angular&type=path
 ## Skill Assessment
 ### https://app.pluralsight.com/score/skill-assessment/angular/intro?context=search
+## Best Practices
+### https://spring.io/guides/tutorials/spring-security-and-angular-js/
 ## Tools
 ### https://nx.dev/angular/tutorial/01-create-application
 ## Performance
