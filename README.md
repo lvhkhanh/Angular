@@ -16,6 +16,8 @@
 ### https://github.com/angular
 
 ### [OLD]https://angularjs.org/
+## Mobile
+### https://nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular/
 ## Tools
 ### https://www.npmjs.com/package/angular-crud
 ### https://storybook.js.org/docs/guides/guide-angular/
