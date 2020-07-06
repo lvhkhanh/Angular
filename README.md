@@ -94,6 +94,8 @@ ValidatorFn
 ### https://scotch.io/tutorials/3-ways-to-pass-async-data-to-angular-2-child-components#toc-solution-2-use-ngonchanges
 ### https://indepth.dev/container-components-with-angular/
 ### https://en.wikipedia.org/wiki/Angular_(web_framework)
+## App
+### ng new <MyApp>
 ## Component
 ### Register
 #### ng g c path/inside/src/app/name --prefix=prefix --style=css|scss
