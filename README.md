@@ -96,6 +96,7 @@ ValidatorFn
 ### https://en.wikipedia.org/wiki/Angular_(web_framework)
 ## App
 ### ng new <MyApp>
+## HttpClientModule RESTful
 ## Component
 ### Register
 #### ng g c path/inside/src/app/name --prefix=prefix --style=css|scss
