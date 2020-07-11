@@ -96,6 +96,8 @@ ValidatorFn
 ### https://en.wikipedia.org/wiki/Angular_(web_framework)
 ## App
 ### ng new <MyApp>
+## UI/UX
+  ### autofocus, tabindex
 ## HttpClientModule RESTful
 ## Component
 ### Register
