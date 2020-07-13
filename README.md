@@ -20,6 +20,7 @@
 ### https://ionicframework.com/
 ### https://nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular/
 ## Tools
+### https://github.com/typicode/json-server
 ### https://www.npmjs.com/package/angular-crud
 ### https://storybook.js.org/docs/guides/guide-angular/
 ### https://stenciljs.com/docs/angular
