@@ -32,3 +32,13 @@ function initializeUI() {
     updateBtn();
   });
 }
+
+function updateBtn() {
+  if (isSubscribed) {
+    pushButton.textContent = "Disable Push Messaging";
+  } else {
+    pushButton.textContent = "Enable Push Messaging";
+  }
+
+  pushButton.disabled = false;
+}
