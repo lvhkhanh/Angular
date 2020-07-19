@@ -19,7 +19,8 @@ if ("serviceWorker" in navigator && "PushManager" in window) {
   pushButton.textContent = "Push Not Supported";
 }
 
-const applicationServerPublicKey = "<Your Public Key>";
+const applicationServerPublicKey =
+  "BCm7AgT1XTTmjx70GrttR3JX--hIXOMsvCXB1F_UfA3dm0wegB99UOPw90mSist8LJ7QlDhLqIEfDY7rRG_qS8E";
 
 function initializeUI() {
   pushButton.addEventListener("click", function () {
