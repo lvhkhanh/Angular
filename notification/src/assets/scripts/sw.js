@@ -33,3 +33,11 @@ self.addEventListener("push", function (event) {
 
   event.waitUntil(self.registration.showNotification(title, options));
 });
+
+self.addEventListener("notificationclick", function (event) {
+  console.log("[Service Worker] Notification click received.");
+
+  event.notification.close();
+
+  event.waitUntil(clients.openWindow("https://developers.google.com/web"));
+});

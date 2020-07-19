@@ -4,6 +4,25 @@ if ("serviceWorker" in navigator && "PushManager" in window) {
   console.log("Service Worker and Push are supported");
 
   navigator.serviceWorker
+    .register("assets/scripts/firebase-messaging-sw.js")
+    .then(function (swReg) {
+      console.log("Service Worker is registered", swReg);
+
+      swRegistration = swReg;
+      initializeUI();
+    })
+    .catch(function (error) {
+      console.error("Service Worker Error", error);
+    });
+} else {
+  console.warn("Push messaging is not supported");
+  pushButton.textContent = "Push Not Supported";
+}
+
+if ("serviceWorker" in navigator && "PushManager" in window) {
+  console.log("Service Worker and Push are supported");
+
+  navigator.serviceWorker
     .register("assets/scripts/sw.js")
     .then(function (swReg) {
       console.log("Service Worker is registered", swReg);

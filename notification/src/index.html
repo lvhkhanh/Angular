@@ -45,5 +45,32 @@
       </section>
     </main>
     <script src="assets/scripts/register-sw.js"></script>
+    <script>
+      // Retrieve Firebase Messaging object.
+      const messaging = firebase.messaging();
+      // Add the public key generated from the console here.
+      messaging.usePublicVapidKey(
+        "BCm7AgT1XTTmjx70GrttR3JX--hIXOMsvCXB1F_UfA3dm0wegB99UOPw90mSist8LJ7QlDhLqIEfDY7rRG_qS8E"
+      );
+
+      // Callback fired if Instance ID token is updated.
+      messaging.onTokenRefresh(() => {
+        messaging
+          .getToken()
+          .then((refreshedToken) => {
+            console.log("Token refreshed.");
+            // Indicate that the new Instance ID token has not yet been sent to the
+            // app server.
+            setTokenSentToServer(false);
+            // Send Instance ID token to app server.
+            sendTokenToServer(refreshedToken);
+            // ...
+          })
+          .catch((err) => {
+            console.log("Unable to retrieve refreshed token ", err);
+            showToken("Unable to retrieve refreshed token ", err);
+          });
+      });
+    </script>
   </body>
 </html>
