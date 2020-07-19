@@ -1,3 +1,5 @@
+const pushButton = document.querySelector(".js-push-btn");
+
 if ("serviceWorker" in navigator && "PushManager" in window) {
   console.log("Service Worker and Push are supported");
 
