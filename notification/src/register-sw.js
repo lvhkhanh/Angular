@@ -4,39 +4,39 @@ if ("serviceWorker" in navigator && "PushManager" in window) {
   console.log("Service Worker and Push are supported");
 
   navigator.serviceWorker
-    .register("assets/scripts/firebase-messaging-sw.js")
+    .register("firebase-messaging-sw.js")
     .then(function (swReg) {
       console.log("Service Worker is registered", swReg);
-
-      swRegistration = swReg;
-      initializeUI();
+      messaging.useServiceWorker(swReg);
+      // swRegistration = swReg;
+      // initializeUI();
     })
     .catch(function (error) {
       console.error("Service Worker Error", error);
     });
 } else {
   console.warn("Push messaging is not supported");
-  pushButton.textContent = "Push Not Supported";
+  // pushButton.textContent = "Push Not Supported";
 }
 
-if ("serviceWorker" in navigator && "PushManager" in window) {
-  console.log("Service Worker and Push are supported");
+// if ("serviceWorker" in navigator && "PushManager" in window) {
+//   console.log("Service Worker and Push are supported");
 
-  navigator.serviceWorker
-    .register("assets/scripts/sw.js")
-    .then(function (swReg) {
-      console.log("Service Worker is registered", swReg);
+//   navigator.serviceWorker
+//     .register("assets/scripts/sw.js")
+//     .then(function (swReg) {
+//       console.log("Service Worker is registered", swReg);
 
-      swRegistration = swReg;
-      initializeUI();
-    })
-    .catch(function (error) {
-      console.error("Service Worker Error", error);
-    });
-} else {
-  console.warn("Push messaging is not supported");
-  pushButton.textContent = "Push Not Supported";
-}
+//       swRegistration = swReg;
+//       initializeUI();
+//     })
+//     .catch(function (error) {
+//       console.error("Service Worker Error", error);
+//     });
+// } else {
+//   console.warn("Push messaging is not supported");
+//   pushButton.textContent = "Push Not Supported";
+// }
 
 const applicationServerPublicKey =
   "BCm7AgT1XTTmjx70GrttR3JX--hIXOMsvCXB1F_UfA3dm0wegB99UOPw90mSist8LJ7QlDhLqIEfDY7rRG_qS8E";
