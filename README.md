@@ -160,3 +160,4 @@ coding style guide
 ## Notification
 ### https://github.com/angular/angularfire/blob/master/docs/messaging/messaging.md
 ### https://github.com/vaibhavpadalia/angularPushNotifications
+### https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web
