@@ -157,3 +157,6 @@ ng g @angular-architects/ddd:feature <name> --domain <domain> --entity <name> --
 ```
 coding style guide
 ```
+## Notification
+### https://github.com/angular/angularfire/blob/master/docs/messaging/messaging.md
+### https://github.com/vaibhavpadalia/angularPushNotifications
