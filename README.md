@@ -148,6 +148,9 @@ NgRx Facade
 ng add @angular-architects/ddd
 ng g @angular-architects/ddd:domain <domain>
 ng g @angular-architects/ddd:feature <name> --domain <domain> --entity <name> --app ui
+ng upgrade
+ng new <AngularApp> -t -s
+ng generate component <ComponentName>
 this.loading = true
 .pipe(finalize(()=>this.loading = false))
 .subscribe(result => this.reuslt = result)
