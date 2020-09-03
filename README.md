@@ -148,6 +148,9 @@ NgRx Facade
 ng add @angular-architects/ddd
 ng g @angular-architects/ddd:domain <domain>
 ng g @angular-architects/ddd:feature <name> --domain <domain> --entity <name> --app ui
+this.loading = true
+.pipe(finalize(()=>this.loading = false))
+.subscribe(result => this.reuslt = result)
 ```
 ## Links
 ### https://duncanhunter.gitbook.io/angular-and-ngrx/
