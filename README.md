@@ -171,5 +171,8 @@ coding style guide
 
 ## Map
 |   |Angular   |Vue   |   |   |
-|---|---|---|---|---|
-|Event   |`(click)="onclick($event)"`|`@click="onClick"`   |   |   |
+|---|---|---|---|---| 
+|Event   |`(click)="onClick($event)"`|`@click="onClick"`   |   |   |
+|Custom Event   |`(customEvent)="onCustomEvent($event)"`|`@customEvent="onCustomEvent"`   |   |   |
+|Event modifier   |`$event.preventDefault();`|`@submit.prevent`   |   |   |
+|Event emitter   |`customEvent = new EventEmmiter<int>(); customEvent.emit(0|1);`|`this.$emit("customEvent");`   |   |   |
