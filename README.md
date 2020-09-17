@@ -175,4 +175,5 @@ coding style guide
 |Event   |`(click)="onClick($event)"`|`@click="onClick"`   |   |   |
 |Custom Event   |`(customEvent)="onCustomEvent($event)"`|`@customEvent="onCustomEvent"`   |   |   |
 |Event modifier   |`$event.preventDefault();`|`@submit.prevent`   |   |   |
-|Event emitter   |`customEvent = new EventEmmiter<int>(); customEvent.emit(0|1);`|`this.$emit("customEvent");`   |   |   |
+|Event emitter   |`customEvent = new EventEmmiter<int>(); customEvent.emit(1);`|`this.$emit("customEvent");`   |   |   |
+|Event bus   ||`eventBus.$emit("customEvent");eventBus.$on("customEvent",()={});`   |   |   |
