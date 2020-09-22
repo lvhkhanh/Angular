@@ -170,11 +170,12 @@ coding style guide
 ### https://developers.google.com/web/updates/2015/03/push-notifications-on-the-open-web
 
 ## Map
-|   |Angular   |Vue   |Spring   |   |
+|   |Angular   |Vue   |Spring   |Blazor   |
 |---|---|---|---|---| 
 |Package Manager   |`npm`,`package.json`|`npm`,`package.json`   |`mvn`,`pom.xml`   |   |
 |Source   |`/src/app`| |`/src/main`   |   |
 |Style guide| [JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html), [AngularJS Style](https://google.github.io/styleguide/angularjs-google-style.html)||[Java](https://google.github.io/styleguide/javaguide.html)
+|Input   |`@Input() input: string = ""`|   |   |[Parameter] public string Input {get;set;}   |
 |Event   |`(click)="onClick($event)"`|`@click="onClick"`   |   |   |
 |Custom Event   |`(customEvent)="onCustomEvent($event)"`|`@customEvent="onCustomEvent"`   |   |   |
 |Event modifier   |`$event.preventDefault();`|`@submit.prevent`   |   |   |
