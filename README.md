@@ -175,6 +175,7 @@ coding style guide
 |Package Manager   |`npm`,`package.json`|`npm`,`package.json`   |`mvn`,`pom.xml`   |   |
 |Source   |`/src/app`| |`/src/main`   |   |
 |Style guide| [JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html), [AngularJS Style](https://google.github.io/styleguide/angularjs-google-style.html)||[Java](https://google.github.io/styleguide/javaguide.html)
+|Interpolation   |`{{varName}}`|`{{varName}}`   |   |`@VarName`|
 |Input   |`@Input() input: string = ""`|   |   |[Parameter] public string Input {get;set;}   |
 |Event   |`(click)="onClick($event)"`|`@click="onClick"`   |   |   |
 |Custom Event   |`(customEvent)="onCustomEvent($event)"`|`@customEvent="onCustomEvent"`   |   |   |
