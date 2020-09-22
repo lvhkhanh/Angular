@@ -177,6 +177,7 @@ coding style guide
 |Style guide| [JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html), [AngularJS Style](https://google.github.io/styleguide/angularjs-google-style.html)||[Java](https://google.github.io/styleguide/javaguide.html)
 |Interpolation   |`{{varName}}`|`{{varName}}`   |   |`@VarName`|
 |Input   |`@Input() input: string = ""`|   |   |[Parameter] public string Input {get;set;}   |
+|Render fragment slot   ||   |   |[Parameter] public RenderFragment ChildContent {get;set;}   |
 |Event   |`(click)="onClick($event)"`|`@click="onClick"`   |   |   |
 |Custom Event   |`(customEvent)="onCustomEvent($event)"`|`@customEvent="onCustomEvent"`   |   |   |
 |Event modifier   |`$event.preventDefault();`|`@submit.prevent`   |   |   |
