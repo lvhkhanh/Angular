@@ -187,7 +187,7 @@ coding style guide
 ### Kill port
 ```
 # find pid for specific port
-netstat -a -n -o
+netstat -nao | find "<port>"
 # stop by pid
 taskkill -f /pid <pid>
 
