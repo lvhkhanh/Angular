@@ -60,6 +60,7 @@ tsconfig.json
 
 * [debugging-angular-2-applications](https://app.pluralsight.com/guides/debugging-angular-2-applications)
 ## Books
+### https://www.syncfusion.com/ebooks/angulardart_succinctly
 ### https://www.angulararchitects.io/en/book/
 ### https://www.syncfusion.com/ebooks/angular-succinctly
 ### https://www.syncfusion.com/ebooks/angular2_succinctly
