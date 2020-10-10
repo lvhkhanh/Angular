@@ -193,3 +193,4 @@ netstat -nao | find "<port>"
 taskkill -f /pid <pid>
 
 ```
+### https://auth0.com/blog/complete-guide-to-angular-user-authentication/
