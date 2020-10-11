@@ -1,14 +1,27 @@
 # Angular
+
+## Prerequisite
+### https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML
+### https://developer.mozilla.org/docs/Learn/CSS/First_steps
+### https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+#### https://app.ultimatecourses.com/course/javascript-basics
+### https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+### https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+### https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+### https://www.typescriptlang.org/
+#### https://www.typescriptlang.org/docs/handbook/classes.html
+#### https://www.typescriptlang.org/docs/handbook/decorators.html
 ## Official
+### https://angular.io/docs
 ### https://angular.io/cli
 ### https://codelabs.developers.google.com/codelabs/cloud-cardboard-viewer/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/firebase-cloud-functions-angular/index.html?index=..%2F..index
 ### https://codelabs.developers.google.com/codelabs/angular-slider-element/index.html?index=..%2F..index
 ### https://angular.io/guide/bazel
 ### https://angular.io/tutorial
+### https://angular.io/guide/architecture
 ### https://angular.io/start
 ### https://angular.io/guide/setup-local
-### https://angular.io/guide/architecture
 ### https://angular.io/guide/styleguide
 ### https://blog.angular.io/
 ### https://angular.io/guide/universal
@@ -26,10 +39,7 @@
 ### https://www.npmjs.com/package/angular-crud
 ### https://storybook.js.org/docs/guides/guide-angular/
 ### https://stenciljs.com/docs/angular
-## Prerequisite
-### TypeScript
-### JavaScript
-#### https://app.ultimatecourses.com/course/javascript-basics
+
 ## Courses
 ### https://app.ultimatecourses.com/course/ngrx-store-effects
 ### https://angular-presentation.firebaseapp.com/angular
@@ -194,3 +204,4 @@ taskkill -f /pid <pid>
 
 ```
 ### https://auth0.com/blog/complete-guide-to-angular-user-authentication/
+### https://viblo.asia/p/gioi-thieu-tong-quan-ve-angular-07LKX9j2ZV4
