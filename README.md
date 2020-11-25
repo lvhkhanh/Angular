@@ -51,6 +51,7 @@
 ### https://codelabs.developers.google.com/codelabs/cloud-cardboard-viewer/index.html?index=..%2F..index
 ### https://app.pluralsight.com/search/?q=angular
 - [ ] https://angular-university.io/course/getting-started-with-angular2
+- [ ] https://angular-university.io/course/rxjs-course
 ### [OLD] https://www.w3schools.com/angular/
 
 
