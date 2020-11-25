@@ -52,6 +52,7 @@
 ### https://app.pluralsight.com/search/?q=angular
 - [ ] https://angular-university.io/course/getting-started-with-angular2
 - [ ] https://angular-university.io/course/rxjs-course
+- [ ] https://egghead.io/courses/thinking-reactively-with-rxjs
 - [ ] https://egghead.io/playlists/build-performant-and-progressive-angular-applications-78032ff5
 ### [OLD] https://www.w3schools.com/angular/
 
