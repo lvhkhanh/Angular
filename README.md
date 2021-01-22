@@ -209,3 +209,8 @@ taskkill -f /pid <pid>
 ```
 ### https://auth0.com/blog/complete-guide-to-angular-user-authentication/
 ### https://viblo.asia/p/gioi-thieu-tong-quan-ve-angular-07LKX9j2ZV4
+## Libs
+### Immutable.js
+```
+const list = List<Type>(), const revert = fromJS(list).toJS()
+```
