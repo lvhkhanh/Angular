@@ -54,6 +54,7 @@
 - [ ] https://angular-university.io/course/rxjs-course
 - [ ] https://egghead.io/courses/thinking-reactively-with-rxjs
 - [ ] https://egghead.io/playlists/build-performant-and-progressive-angular-applications-78032ff5
+- [x] Angular + NestJS course https://www.sololearn.com/Certificate/1092-123361/jpg/
 ### [OLD] https://www.w3schools.com/angular/
 
 
