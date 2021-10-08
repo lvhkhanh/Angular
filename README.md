@@ -176,6 +176,7 @@ this.loading = true
 ### https://viblo.asia/p/su-ket-hop-giua-angular-5-ng2-smart-table-va-rails-OeVKBR3JKkW
 ### https://www.js-tutorials.com/angularjs-tutorial/smart-table-server-side-pagination-angular-4-angular5/
 ### https://stackblitz.com/edit/example-ng2-smart-table-qhjukg?file=src/app/app.component.ts
+### CRUD Angular Firebase
 ## Keywords
 ```
 coding style guide
