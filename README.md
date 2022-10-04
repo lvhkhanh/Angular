@@ -54,6 +54,8 @@
 - [ ] https://angular-university.io/course/rxjs-course
 - [ ] https://egghead.io/courses/thinking-reactively-with-rxjs
 - [ ] https://egghead.io/playlists/build-performant-and-progressive-angular-applications-78032ff5
+## Certificates
+- [x] [Test your Angular web application using Jasmine and Karma](https://www.coursera.org/account/accomplishments/verify/U6QGPK5V74CN)
 - [x] Angular + NestJS course https://www.sololearn.com/Certificate/1092-123361/jpg/
 ### [OLD] https://www.w3schools.com/angular/
 
