@@ -34,6 +34,7 @@
 ### https://nativescript.org/nativescript-is-how-you-build-native-mobile-apps-with-angular/
 ## Tools
 ### ng lint
+### i18n ngx-translate
 ### https://search.google.com/test/mobile-friendly
 ### https://github.com/typicode/json-server
 ### https://www.npmjs.com/package/angular-crud
