@@ -1,5 +1,6 @@
 # Angular
-
+## Implementation
+- [x] https://angular.io/guide/styleguide
 ## Prerequisite
 ### https://developer.mozilla.org/docs/Learn/HTML/Introduction_to_HTML
 ### https://developer.mozilla.org/docs/Learn/CSS/First_steps
@@ -22,7 +23,6 @@
 ### https://angular.io/guide/architecture
 ### https://angular.io/start
 ### https://angular.io/guide/setup-local
-### https://angular.io/guide/styleguide
 ### https://blog.angular.io/
 ### https://angular.io/guide/universal
 ### https://github.com/angular/angular
