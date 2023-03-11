@@ -1,4 +1,6 @@
 # Angular
+## CICD
+- [x] https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest
 ## Test Driven Development
 - [x] Jest https://www.xfive.co/blog/testing-angular-faster-jest/
 ## Implementation
