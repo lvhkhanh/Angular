@@ -9,6 +9,7 @@
 - [x] https://wiremock.org/docs/running-standalone/
 - [x] https://dev.to/b0r/angular-and-wiremock-integration-for-ui-testing-10f6
 - [x] https://www.npmjs.com/package/wiremock
+- [x] https://blog.avenuecode.com/how-to-use-wiremock-for-integration-testing
 ## Implementation
 - [x] https://angular.io/guide/styleguide
 - [x] https://angular.io/guide/docs-style-guide
