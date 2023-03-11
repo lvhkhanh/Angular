@@ -7,6 +7,7 @@
 - [x] https://angular.io/guide/testing-components-basics
 - [x] https://www.devcurry.com/2020/09/testing-angular-component-using-jest.html
 - [x] https://wiremock.org/docs/running-standalone/
+- [x] https://dev.to/b0r/angular-and-wiremock-integration-for-ui-testing-10f6
 ## Implementation
 - [x] https://angular.io/guide/styleguide
 - [x] https://angular.io/guide/docs-style-guide
