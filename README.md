@@ -6,6 +6,7 @@
 - [x] Jest https://www.xfive.co/blog/testing-angular-faster-jest/
 - [x] https://angular.io/guide/testing-components-basics
 - [x] https://www.devcurry.com/2020/09/testing-angular-component-using-jest.html
+- [x] https://wiremock.org/docs/running-standalone/
 ## Implementation
 - [x] https://angular.io/guide/styleguide
 - [x] https://angular.io/guide/docs-style-guide
