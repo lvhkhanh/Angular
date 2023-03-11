@@ -3,6 +3,7 @@
 - [x] https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest
 ## Test Driven Development
 - [x] Jest https://www.xfive.co/blog/testing-angular-faster-jest/
+- [x] https://angular.io/guide/testing-components-basics
 ## Implementation
 - [x] https://angular.io/guide/styleguide
 - [x] https://angular.io/guide/docs-style-guide
