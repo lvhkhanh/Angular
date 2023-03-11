@@ -11,6 +11,7 @@
 - [x] https://www.npmjs.com/package/wiremock
 - [x] https://blog.avenuecode.com/how-to-use-wiremock-for-integration-testing
 - [x] https://www.geeksforgeeks.org/introduction-to-wiremock/
+- [x] https://developer.okta.com/blog/2018/05/02/testing-spring-boot-angular-components
 ## Implementation
 - [x] https://angular.io/guide/styleguide
 - [x] https://angular.io/guide/docs-style-guide
