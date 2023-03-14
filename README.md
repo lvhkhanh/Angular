@@ -1,4 +1,7 @@
 # Angular
+## Certificates
+- [x] Routing and Navigation Concepts in Angular https://www.coursera.org/account/accomplishments/certificate/M7HKE43VE8QC [KhanhLVH_Angular_Router_Coursera M7HKE43VE8QC.pdf](https://github.com/lvhkhanh/Angular/files/10970746/KhanhLVH_Angular_Router_Coursera.M7HKE43VE8QC.pdf)
+
 ## CICD
 - [x] https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest
 ## Test Driven Development
