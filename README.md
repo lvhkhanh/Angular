@@ -1,5 +1,7 @@
 # Angular
 ## Certificates
+- [x] Angular Junior https://interstate21.com/certificate/?code=4C13R0L [KhanhLVH_Angular_Junior.pdf](https://github.com/lvhkhanh/Angular/files/10971905/KhanhLVH_Angular_Junior.pdf)
+
 - [x] Routing and Navigation Concepts in Angular https://www.coursera.org/account/accomplishments/certificate/M7HKE43VE8QC [KhanhLVH_Angular_Router_Coursera M7HKE43VE8QC.pdf](https://github.com/lvhkhanh/Angular/files/10970746/KhanhLVH_Angular_Router_Coursera.M7HKE43VE8QC.pdf)
 
 ## CICD
