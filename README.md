@@ -223,6 +223,12 @@ coding style guide
 |Event emitter   |`customEvent = new EventEmmiter<int>(); customEvent.emit(1);`|`this.$emit("customEvent");`   |   |   |
 |Event bus   ||`eventBus.$emit("customEvent");eventBus.$on("customEvent",()={});`   |   |   |
 ## Notes
+### RxJS
+```
+use case: type and search filter
+debounceTime
+skipWhile
+```
 ### Kill port
 ```
 # find pid for specific port
