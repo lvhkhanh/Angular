@@ -3,6 +3,8 @@
 - [x] Angular Junior https://interstate21.com/certificate/?code=4C13R0L [KhanhLVH_Angular_Junior.pdf](https://github.com/lvhkhanh/Angular/files/10971905/KhanhLVH_Angular_Junior.pdf)
 
 - [x] Routing and Navigation Concepts in Angular https://www.coursera.org/account/accomplishments/certificate/M7HKE43VE8QC [KhanhLVH_Angular_Router_Coursera M7HKE43VE8QC.pdf](https://github.com/lvhkhanh/Angular/files/10970746/KhanhLVH_Angular_Router_Coursera.M7HKE43VE8QC.pdf)
+- [x] Angular Testing Masterclass (Angular 15) https://fpt-software.udemy.com/certificate/UC-1a18e06a-29ea-4764-adf0-5422298baefd/ [UC-1a18e06a-29ea-4764-adf0-5422298baefd.pdf](https://github.com/lvhkhanh/Angular/files/11239810/UC-1a18e06a-29ea-4764-adf0-5422298baefd.pdf)
+
 
 ## CICD
 - [x] https://semaphoreci.com/community/tutorials/testing-angular-2-and-continuous-integration-with-jest
