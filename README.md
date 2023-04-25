@@ -230,6 +230,7 @@ coding style guide
 use case: type and search filter
 debounceTime
 skipWhile
+nested subscribed() -> switchMap()
 ```
 ### Kill port
 ```
