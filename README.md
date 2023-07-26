@@ -247,3 +247,5 @@ taskkill -f /pid <pid>
 ```
 const list = List<Type>(), const revert = fromJS(list).toJS()
 ```
+## TODO
+### pass env properties via command
